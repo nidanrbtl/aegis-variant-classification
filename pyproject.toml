@@ -1,0 +1,22 @@
+[project]
+name = "aegis-variant-classification"
+version = "2.0.0"
+description = "Panel-based pathogenicity classification of missense variants (TEKNOFEST Sağlıkta Yapay Zekâ)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=3.0",
+    "numpy",
+    "scikit-learn",
+    "xgboost",
+    "lightgbm",
+    "matplotlib",
+    "tabulate",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["aegis*"]

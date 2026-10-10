@@ -1,0 +1,81 @@
+panel,feature,family,importance
+CFTR,ACMG_PP3_insilico_max,ACMG-like Evidence,0.08295134976506233
+CFTR,log_AL_298,AL / Population Frequency,0.05362666808068752
+CFTR,log_AL_7,AL / Population Frequency,0.0457111544907093
+CFTR,log_AL_302,AL / Population Frequency,0.037633581180125476
+CFTR,EK_2,EK / In-silico Evidence,0.037598490715026855
+CFTR,log_AL_58,AL / Population Frequency,0.030611852183938026
+CFTR,log_AL_296,AL / Population Frequency,0.029617209546267988
+CFTR,ACMG_COMBINED_PM2_PP3,ACMG-like Evidence,0.029310846887528896
+CFTR,log_AL_8,AL / Population Frequency,0.02888850709423423
+CFTR,ACMG_PP3_insilico_mean,ACMG-like Evidence,0.02567510036751628
+CFTR,log_AL_327,AL / Population Frequency,0.024414728209376336
+CFTR,log_AL_311,AL / Population Frequency,0.023363105580210687
+CFTR,log_AL_14,AL / Population Frequency,0.022196358256042003
+CFTR,log_AL_11,AL / Population Frequency,0.016822815826162695
+CFTR,log_AL_73,AL / Population Frequency,0.016079198475927113
+CFTR,log_AL_319,AL / Population Frequency,0.01594478888437152
+CFTR,log_AL_118,AL / Population Frequency,0.01458255909383297
+CFTR,EK_1,EK / In-silico Evidence,0.013713201135396957
+CFTR,log_AL_315,AL / Population Frequency,0.012877095164731145
+CFTR,EK_6,EK / In-silico Evidence,0.012652118364349008
+KANSER,log_AL_16,AL / Population Frequency,0.0786221168935299
+KANSER,AEGIS_KANSER_evidence_strength,AEGIS Combined Evidence,0.0386253859847784
+KANSER,log_AL_19,AL / Population Frequency,0.031141945626586676
+KANSER,log_AL_215,AL / Population Frequency,0.029511311277747154
+KANSER,AEGIS_KANSER_conservation_mean,AEGIS Combined Evidence,0.027441521361470222
+KANSER,log_AL_23,AL / Population Frequency,0.02669727704487741
+KANSER,log_AL_18,AL / Population Frequency,0.025099980644881725
+KANSER,ACMG_PP3_insilico_mean,ACMG-like Evidence,0.021819991897791623
+KANSER,log_AL_13,AL / Population Frequency,0.016872888058423997
+KANSER,log_AL_184,AL / Population Frequency,0.0156105263158679
+KANSER,AEGIS_KANSER_conservation_max,AEGIS Combined Evidence,0.014878857973963022
+KANSER,log_AL_22,AL / Population Frequency,0.01411131750792265
+KANSER,ACMG_PM2_population_rare_mean,ACMG-like Evidence,0.013557739555835724
+KANSER,log_AL_315,AL / Population Frequency,0.012964761909097433
+KANSER,MISS_AL_ratio,Missingness Evidence,0.011290955124422908
+KANSER,log_AL_175,AL / Population Frequency,0.010775646229740232
+KANSER,log_AL_224,AL / Population Frequency,0.010041559394448996
+KANSER,AEGIS_KANSER_missing_evidence_density,AEGIS Combined Evidence,0.009997554682195186
+KANSER,ACMG_PP3_insilico_max,ACMG-like Evidence,0.009439649246633052
+KANSER,MISS_total_ratio,Missingness Evidence,0.00823894515633583
+MASTER,log_AL_1,AL / Population Frequency,0.025354308634996416
+MASTER,log_AL_16,AL / Population Frequency,0.021513590589165688
+MASTER,CAT_1_missing,CAT / Genomic Context,0.02021748386323452
+MASTER,EK_7,EK / In-silico Evidence,0.019995700381696225
+MASTER,AEGIS_MASTER_evidence_strength,AEGIS Combined Evidence,0.018556142039597035
+MASTER,ACMG_PP3_insilico_max,ACMG-like Evidence,0.0151691485196352
+MASTER,log_AL_6,AL / Population Frequency,0.012087260815314948
+MASTER,log_AL_215,AL / Population Frequency,0.011507820338010788
+MASTER,log_AL_3,AL / Population Frequency,0.011261780839413404
+MASTER,log_AL_287,AL / Population Frequency,0.008868146687746048
+MASTER,log_AL_327,AL / Population Frequency,0.008354328852146865
+MASTER,log_AL_4,AL / Population Frequency,0.00746509877499193
+MASTER,log_AL_26,AL / Population Frequency,0.006975094135850668
+MASTER,MISS_total_ratio,Missingness Evidence,0.006618596334010363
+MASTER,MISS_AL_ratio,Missingness Evidence,0.0065522979944944385
+MASTER,log_AL_7,AL / Population Frequency,0.0064820216968655585
+MASTER,AL_328,AL / Population Frequency,0.006132849864661694
+MASTER,log_AL_9,AL / Population Frequency,0.005888865562155843
+MASTER,log_AL_11,AL / Population Frequency,0.005705406609922648
+MASTER,ACMG_PP3_insilico_mean,ACMG-like Evidence,0.005385760450735688
+PAH,EK_7,EK / In-silico Evidence,0.01983398459851742
+PAH,log_AL_323,AL / Population Frequency,0.019267665222287178
+PAH,log_AL_12,AL / Population Frequency,0.018357961997389795
+PAH,log_AL_49,AL / Population Frequency,0.01654568947851658
+PAH,log_AL_7,AL / Population Frequency,0.01622046437114477
+PAH,log_AL_26,AL / Population Frequency,0.01569151971489191
+PAH,log_AL_300,AL / Population Frequency,0.014151637256145478
+PAH,log_AL_13,AL / Population Frequency,0.014032196067273617
+PAH,log_AL_15,AL / Population Frequency,0.013433164078742265
+PAH,log_AL_331,AL / Population Frequency,0.013338378909975291
+PAH,ACMG_PP3_insilico_mean,ACMG-like Evidence,0.012556079821661115
+PAH,log_AL_319,AL / Population Frequency,0.01244843788444996
+PAH,log_AL_327,AL / Population Frequency,0.012003575637936591
+PAH,AEGIS_PAH_evidence_strength,AEGIS Combined Evidence,0.011924318969249725
+PAH,log_AL_306,AL / Population Frequency,0.011839157622307538
+PAH,AL_328,AL / Population Frequency,0.011744682118296624
+PAH,log_AL_311,AL / Population Frequency,0.011645619012415408
+PAH,log_AL_145,AL / Population Frequency,0.011307867243885994
+PAH,ACMG_PP3_insilico_max,ACMG-like Evidence,0.01128870346583426
+PAH,log_AL_8,AL / Population Frequency,0.01085361624136567

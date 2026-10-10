@@ -1,0 +1,20 @@
+# Competition data is not redistributed with the code (see data/README.md)
+data/*
+!data/README.md
+
+# Row-level predictions contain per-variant labels
+outputs/predictions/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

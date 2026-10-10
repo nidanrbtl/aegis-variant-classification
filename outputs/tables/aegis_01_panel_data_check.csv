@@ -1,0 +1,5 @@
+panel,n_rows,n_columns,n_features,label_0,label_1,label_0_percent,label_1_percent,unique_variant_id,panel_duplicate_variant_id,missing_cell_percent,numeric_feature_count,non_numeric_feature_count
+MASTER,2931,353,351,782,2149,26.68,73.32,2931,0,55.26,343,8
+KANSER,388,353,351,120,268,30.93,69.07,388,0,57.5,343,8
+PAH,372,353,351,62,310,16.67,83.33,372,0,54.61,344,7
+CFTR,111,353,351,21,90,18.92,81.08,111,0,30.45,343,8

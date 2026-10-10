@@ -1,0 +1,13 @@
+# pandas 3 is required: the feature code relies on its string dtype
+# (missing text stays NaN instead of becoming the string "nan").
+#
+# Results in the README were produced with:
+#   Python 3.13, pandas 3.0.5, numpy 2.5.3, scikit-learn 1.9.1,
+#   xgboost 3.0.2, lightgbm 4.6.0, matplotlib 3.11.2
+pandas>=3.0
+numpy
+scikit-learn
+xgboost
+lightgbm
+matplotlib
+tabulate
